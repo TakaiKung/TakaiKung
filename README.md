@@ -1,5 +1,5 @@
 # 😁 About Me 
-<img src="https://media.giphy.com/media/QMHoU66sBXqqLqYvGO/giphy.gif" align="left" width="25%"/>
+<img src="https://media.giphy.com/media/QMHoU66sBXqqLqYvGO/giphy.gif" align="left" width="25%" height="30%"/>
 Hi I'm Nipas Wongnitipat I have a passion for learning software engineer process and web development.
 If you found value in something I have created,
 please feel free to give me a shout out on my email nipas2013@gmail.com Pls.
